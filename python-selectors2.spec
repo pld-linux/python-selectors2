@@ -8,7 +8,7 @@ Summary:	Back-ported, durable, and portable selectors
 Summary(pl.UTF-8):	Zbackportowane, trwałe i przenośne selektory
 Name:		python-selectors2
 Version:	2.0.2
-Release:	1
+Release:	2
 License:	MIT
 Group:		Libraries/Python
 #Source0Download: https://pypi.org/simple/selectors2/
